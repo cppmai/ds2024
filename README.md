@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Chau Phan Phuong Mai 
+* Student ID: BI12-263 
 * Student Group ID: Not-for-now
